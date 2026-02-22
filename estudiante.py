@@ -15,8 +15,3 @@ class Estudiante:
         print("Promedio:", self.calcular_promedio())
 
 
-print("Programa iniciado")
-
-estudiante1 = Estudiante("Carlos", 20, 85.5, 90.0)
-estudiante1.mostrar_informacion()
-
